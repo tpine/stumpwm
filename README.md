@@ -1,4 +1,6 @@
 ![](https://stumpwm.github.io/images/stumpwm-logo-stripe.png)
+
+
 # The Stump Window Manager
 ![](https://travis-ci.org/stumpwm/stumpwm.svg)
 [![Gitter](https://badges.gitter.im/stumpwm/community.svg)](https://gitter.im/stumpwm/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
